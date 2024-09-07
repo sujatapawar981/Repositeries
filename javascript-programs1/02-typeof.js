@@ -1,0 +1,27 @@
+console.log("======== 1 ========");
+var BankName;
+console.log(BankName);
+BankName="SBI Bank";
+console.log("Bank Name is:",BankName);
+
+var Banktypeof=typeof BankName;
+console.log("Datatype of Bankname is:",Banktypeof);
+console.log("======= 2 =========");
+var marks="90%";
+console.log("My marks are :",marks);
+var typemarks =typeof marks;
+console.log("Datatype of Marks is:",typemarks);
+console.log("======= 3 ========");
+var isWorking=false;
+console.log("My Working status is:",isWorking);
+var isworkingtype=typeof  isWorking;
+console.log("type of IsWorking",isworkingtype);
+console.log("=======  4 ==========");
+var count="Hundred and seven";
+ console.log("total count is:",count);
+ var typeofcount=typeof count;
+ console.log("type of Hundred and seven is:",typeofcount);
+ var totalcount=107;
+ console.log("Update total count:",totalcount);
+ var typecount=typeof totalcount;
+ console.log("Type of hundred and seven is:",typecount);

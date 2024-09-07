@@ -1,0 +1,13 @@
+
+function add(){
+
+if(true){
+    var n1=100;
+    let n2=200;
+    const n3=300;
+    
+}
+console.log(n1,n2,n3); // Here error is occar because declearation outside the scope
+
+}
+add();
